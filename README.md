@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raza Hussain Akbari, I'm a Full Stack Software Engineer working on frameworks like React, NextJS, NodeJS and Go Fiber
+- 👋 Hi, I’m Raza Hussain Akbari, I'm a Full Stack Software Engineer working on frameworks like React, NextJS, NodeJS and Go Fiber & Go Gin
 - 👀 I’m interested in writing code in JavaScript/TypeScript, Python and little bit of Go Lang 
 
 <!---
