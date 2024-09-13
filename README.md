@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raza Hussain Akbari, I'm a Full Stack Software Engineer who has experience working on libaries and frameworks like React.js, Next.js, Node.js, Spring Boot, FastAPI, Flask and Go Fiber & Go Gin
+- 👋 Hi, I’m Raza Hussain Akbari, I'm a Software Engineer who has experience working on libaries and frameworks like React.js, Next.js, Node.js, Spring Boot, FastAPI, Flask and Go Fiber & Go Gin
 - 👀 I’m interested in writing code in TypeScript, Java, Python and Go Lang 
 
 <!---
