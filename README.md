@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Raza Hussain Akbari</h1>
 <p align="center">
-  <em>Senior Software Engineer · Full Stack · Karachi, PK</em>
+  <em>Senior Software Engineer · Full Stack · Pakistan</em>
 </p>
 
 <p align="center">
