@@ -15,19 +15,29 @@
 
 ### About
 
-I build scalable microservices, cloud-native platforms, and SaaS products end to end — from infrastructure to UI. Currently leading frontend architecture at [iVolve Technologies](https://ivolve.io), where I design monorepo microfrontend systems and high-throughput backend services for enterprise cloud platforms.
+I build scalable microservices, cloud-native platforms, and SaaS products end to end, from infrastructure to UI. Currently leading frontend architecture at [iVolve Technologies](https://ivolve.io), where I design monorepo microfrontend systems and high-throughput backend services for enterprise cloud platforms.
 
 - Working on Next.js App Router, microfrontend architecture, and Go-based backend services
 - M.Sc. Data Science, NED University · Thesis: improving QA systems with GPT-3 vs DistilBERT
-- I use Arch btw
+
+<sub><i>I use Arch btw.</i></sub>
 
 ### Tech I work with
 
-**Languages** &nbsp;&nbsp; TypeScript · JavaScript · Python · Go
-**Frontend** &nbsp;&nbsp; React · Next.js · Redux · Zustand · TanStack Query · Microfrontends
-**Backend** &nbsp;&nbsp; Node.js · NestJS · Express · FastAPI · Django · Flask · Gin · Fiber
-**Data** &nbsp;&nbsp; PostgreSQL · MySQL · Neo4j · GraphQL · REST
-**Cloud & DevOps** &nbsp;&nbsp; AWS · GCP · Azure · Docker · OpenStack · GitHub Actions · Jenkins · Ansible
+| | |
+|---|---|
+| **Languages** | TypeScript · JavaScript · Python · Go |
+| **Frontend** | React · Next.js · Redux · Zustand · TanStack Query · Microfrontends |
+| **Backend** | Node.js · NestJS · Express · FastAPI · Django · Flask · Gin · Fiber |
+| **Data** | PostgreSQL · MySQL · Neo4j · GraphQL · REST |
+| **Cloud & DevOps** | AWS · GCP · Azure · Docker · OpenStack · GitHub Actions · Jenkins · Ansible |
+
+---
+
+### Featured projects
+
+> 🧠 **[ms-thesis-gpt-3](https://github.com/rhakbari/ms-thesis-gpt-3)** — M.Sc. thesis exploring a novel approach to question-answering systems using GPT-3, benchmarked against DistilBERT.
+
 ---
 
 ### GitHub stats
