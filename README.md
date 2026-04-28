@@ -1,8 +1,42 @@
-- 👋 Hi, I’m Raza Hussain Akbari, I'm a Software Engineer who has experience working on libaries and frameworks like React.js, Next.js, Node.js, FastAPI, Flask and Go Fiber & Go Gin
-- 👀 I’m interested in writing code in TypeScript, Javascript, Python and Go Lang
-- I use Arch by the way
+<h1 align="center">Hi, I'm Raza Hussain Akbari</h1>
+<p align="center">
+  <em>Senior Software Engineer · Full Stack · Karachi, PK</em>
+</p>
 
-<a href="https://github.com/riffatS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=riffatS">
-</a>
-<a href="https://github.com/rhakbari?tab=followers"><img src="https://img.shields.io/github/followers/rhakbari?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rhakbari"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://rhakbari.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"></a>
+  <a href="mailto:rhakbari.96@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=rhakbari&style=flat-square&color=0A66C2">
+  <a href="https://github.com/rhakbari?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/rhakbari?label=Followers&style=flat-square&color=0A66C2"></a>
+</p>
+
+---
+
+### About
+
+I build scalable microservices, cloud-native platforms, and SaaS products end to end — from infrastructure to UI. Currently leading frontend architecture at [iVolve Technologies](https://ivolve.io), where I design monorepo microfrontend systems and high-throughput backend services for enterprise cloud platforms.
+
+- Working on Next.js App Router, microfrontend architecture, and Go-based backend services
+- M.Sc. Data Science, NED University · Thesis: improving QA systems with GPT-3 vs DistilBERT
+- I use Arch btw
+
+### Tech I work with
+
+**Languages** &nbsp;&nbsp; TypeScript · JavaScript · Python · Go
+**Frontend** &nbsp;&nbsp; React · Next.js · Redux · Zustand · TanStack Query · Microfrontends
+**Backend** &nbsp;&nbsp; Node.js · NestJS · Express · FastAPI · Django · Flask · Gin · Fiber
+**Data** &nbsp;&nbsp; PostgreSQL · MySQL · Neo4j · GraphQL · REST
+**Cloud & DevOps** &nbsp;&nbsp; AWS · GCP · Azure · Docker · OpenStack · GitHub Actions · Jenkins · Ansible
+---
+
+### GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rhakbari&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=0A66C2&icon_color=0A66C2">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhakbari&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=0A66C2">
+</p>
+
+<p>
+  <img height="165" src="https://streak-stats.demolab.com?user=rhakbari&hide_border=true&theme=transparent&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2">
+</p>
