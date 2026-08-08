@@ -43,10 +43,5 @@ I build scalable microservices, cloud-native platforms, and SaaS products end to
 ### GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rhakbari&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=0A66C2&icon_color=0A66C2">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhakbari&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=0A66C2">
-</p>
-
-<p>
   <img height="165" src="https://streak-stats.demolab.com?user=rhakbari&hide_border=true&theme=transparent&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2">
 </p>
