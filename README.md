@@ -51,7 +51,7 @@ Currently at **iVolve Technologies**, where I work on enterprise cloud platforms
 | **Languages**           | TypeScript · JavaScript · Go · Python                                    |
 | **Frontend**            | React · Next.js · Redux · Zustand · TanStack Query · Microfrontends      |
 | **Mobile**              | React Native · Expo                                                      |
-| **Backend**             | Go · Node.js · NestJS · Express · Gin · Fiber · FastAPI · Django · Flask |
+| **Backend**             | Go · Node.js · NestJS · Express · Python · FastAPI · Django              |
 | **APIs**                | REST · GraphQL                                                           |
 | **Databases**           | PostgreSQL · MySQL · Neo4j                                               |
 | **Cloud**               | AWS · GCP · Azure · OpenStack                                            |
