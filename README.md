@@ -126,9 +126,9 @@ NED University of Engineering & Technology
 <p align="center">
   <a href="https://www.linkedin.com/in/rhakbari">LinkedIn</a>
   ·
-  <a href="https://rhakbari.vercel.app/">Portfolio</a>
+  <a href="https://www.rhakbari.dev/">Portfolio</a>
   ·
-  <a href="https://github.com/rhakbari">GitHub</a>
+  <a href="https://www.github.com/rhakbari">GitHub</a>
   ·
   <a href="mailto:rhakbari.96@gmail.com">Email</a>
 </p>
