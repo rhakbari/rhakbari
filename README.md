@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/rhakbari">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://rhakbari.vercel.app/">
+  <a href="https://rhakbari.dev/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white">
   </a>
   <a href="mailto:rhakbari.96@gmail.com">
